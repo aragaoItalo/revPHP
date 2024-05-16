@@ -1,0 +1,10 @@
+{
+    "name": "vendor/phprevisao",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Phprevisao\\": "src/"
+        }
+    },
+    "require": {}
+}
