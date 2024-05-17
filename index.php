@@ -9,7 +9,6 @@
 <body>
     <h1>To do List</h1>
     <?php
-         echo "Hello Word!";
          include 'src/main.php'  ?> 
 </body>
 </html>
